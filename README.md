@@ -80,3 +80,4 @@ Filters each time series in myTimeSeries.tab using a high-pass window of +/- 25,
 
 ## Licensing
 
+MIT License.
