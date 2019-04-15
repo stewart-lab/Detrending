@@ -1,4 +1,3 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
 # Detrending Bandpass 
 detrendingBandpass.pl implements a very simple bandpass filter on a time-series dataset
@@ -23,22 +22,6 @@ diff filteredOutput.tab expectedOutput.tab | head
 ```
 
 ... should output nothing at all.
-
-### Initial Configuration
-
-N/A
-
-## Developing
-
-N/A
-
-### Building
-
-N/A
-
-### Deploying / Publishing
-
-N/A
 
 ## Features
 
@@ -89,23 +72,11 @@ Example:
 
 Filters each time series in myTimeSeries.tab using a high-pass window of +/- 25, and a low-pass window of +/- 5.
 
-## Contributing
-
-N/A
-
 ## Links
-
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
 
 - Project homepage: https://github.com/stewart-lab/Detrending/
 - Repository: https://github.com/stewart-lab/Detrending/
 - Issue tracker: https://github.com/stewart-lab/Detrending/issues
-  - In case of sensitive bugs like security vulnerabilities, please contact
-    my@email.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
-- Related projects:
 
 ## Licensing
 
